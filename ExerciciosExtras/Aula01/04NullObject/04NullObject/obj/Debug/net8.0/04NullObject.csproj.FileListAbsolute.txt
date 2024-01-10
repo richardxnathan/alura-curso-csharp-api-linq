@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\04NullObject\04NullObject\bin\Debug\net8.0\04NullObject.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\04NullObject\04NullObject\bin\Debug\net8.0\04NullObject.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\04NullObject\04NullObject\bin\Debug\net8.0\04NullObject.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\04NullObject\04NullObject\bin\Debug\net8.0\04NullObject.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\04NullObject\04NullObject\bin\Debug\net8.0\04NullObject.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\04NullObject\04NullObject\obj\Debug\net8.0\04NullObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\04NullObject\04NullObject\obj\Debug\net8.0\04NullObject.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\04NullObject\04NullObject\obj\Debug\net8.0\04NullObject.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\04NullObject\04NullObject\obj\Debug\net8.0\04NullObject.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\04NullObject\04NullObject\obj\Debug\net8.0\04NullObject.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\04NullObject\04NullObject\obj\Debug\net8.0\04NullObject.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\04NullObject\04NullObject\obj\Debug\net8.0\refint\04NullObject.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\04NullObject\04NullObject\obj\Debug\net8.0\04NullObject.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\04NullObject\04NullObject\obj\Debug\net8.0\04NullObject.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\04NullObject\04NullObject\obj\Debug\net8.0\ref\04NullObject.dll

@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\05CatAPI\05CatAPI\bin\Debug\net8.0\05CatAPI.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\05CatAPI\05CatAPI\bin\Debug\net8.0\05CatAPI.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\05CatAPI\05CatAPI\bin\Debug\net8.0\05CatAPI.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\05CatAPI\05CatAPI\bin\Debug\net8.0\05CatAPI.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\05CatAPI\05CatAPI\bin\Debug\net8.0\05CatAPI.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\05CatAPI\05CatAPI\obj\Debug\net8.0\05CatAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\05CatAPI\05CatAPI\obj\Debug\net8.0\05CatAPI.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\05CatAPI\05CatAPI\obj\Debug\net8.0\05CatAPI.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\05CatAPI\05CatAPI\obj\Debug\net8.0\05CatAPI.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\05CatAPI\05CatAPI\obj\Debug\net8.0\05CatAPI.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\05CatAPI\05CatAPI\obj\Debug\net8.0\05CatAPI.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\05CatAPI\05CatAPI\obj\Debug\net8.0\refint\05CatAPI.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\05CatAPI\05CatAPI\obj\Debug\net8.0\05CatAPI.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\05CatAPI\05CatAPI\obj\Debug\net8.0\05CatAPI.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\05CatAPI\05CatAPI\obj\Debug\net8.0\ref\05CatAPI.dll

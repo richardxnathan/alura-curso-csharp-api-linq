@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\02Calculator\02Calculator\bin\Debug\net8.0\02Calculator.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\02Calculator\02Calculator\bin\Debug\net8.0\02Calculator.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\02Calculator\02Calculator\bin\Debug\net8.0\02Calculator.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\02Calculator\02Calculator\bin\Debug\net8.0\02Calculator.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\02Calculator\02Calculator\bin\Debug\net8.0\02Calculator.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\02Calculator\02Calculator\obj\Debug\net8.0\02Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\02Calculator\02Calculator\obj\Debug\net8.0\02Calculator.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\02Calculator\02Calculator\obj\Debug\net8.0\02Calculator.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\02Calculator\02Calculator\obj\Debug\net8.0\02Calculator.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\02Calculator\02Calculator\obj\Debug\net8.0\02Calculator.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\02Calculator\02Calculator\obj\Debug\net8.0\02Calculator.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\02Calculator\02Calculator\obj\Debug\net8.0\refint\02Calculator.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\02Calculator\02Calculator\obj\Debug\net8.0\02Calculator.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\02Calculator\02Calculator\obj\Debug\net8.0\02Calculator.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\02Calculator\02Calculator\obj\Debug\net8.0\ref\02Calculator.dll

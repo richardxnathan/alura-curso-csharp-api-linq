@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\01CheapShark\01CheapShark\bin\Debug\net8.0\01CheapShark.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\01CheapShark\01CheapShark\bin\Debug\net8.0\01CheapShark.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\01CheapShark\01CheapShark\bin\Debug\net8.0\01CheapShark.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\01CheapShark\01CheapShark\bin\Debug\net8.0\01CheapShark.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\01CheapShark\01CheapShark\bin\Debug\net8.0\01CheapShark.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\01CheapShark\01CheapShark\obj\Debug\net8.0\01CheapShark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\01CheapShark\01CheapShark\obj\Debug\net8.0\01CheapShark.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\01CheapShark\01CheapShark\obj\Debug\net8.0\01CheapShark.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\01CheapShark\01CheapShark\obj\Debug\net8.0\01CheapShark.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\01CheapShark\01CheapShark\obj\Debug\net8.0\01CheapShark.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\01CheapShark\01CheapShark\obj\Debug\net8.0\01CheapShark.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\01CheapShark\01CheapShark\obj\Debug\net8.0\refint\01CheapShark.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\01CheapShark\01CheapShark\obj\Debug\net8.0\01CheapShark.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\01CheapShark\01CheapShark\obj\Debug\net8.0\01CheapShark.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula01\01CheapShark\01CheapShark\obj\Debug\net8.0\ref\01CheapShark.dll
