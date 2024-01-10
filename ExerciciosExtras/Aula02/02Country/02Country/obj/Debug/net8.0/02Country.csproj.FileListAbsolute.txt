@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\02Country\02Country\bin\Debug\net8.0\02Country.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\02Country\02Country\bin\Debug\net8.0\02Country.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\02Country\02Country\bin\Debug\net8.0\02Country.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\02Country\02Country\bin\Debug\net8.0\02Country.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\02Country\02Country\bin\Debug\net8.0\02Country.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\02Country\02Country\obj\Debug\net8.0\02Country.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\02Country\02Country\obj\Debug\net8.0\02Country.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\02Country\02Country\obj\Debug\net8.0\02Country.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\02Country\02Country\obj\Debug\net8.0\02Country.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\02Country\02Country\obj\Debug\net8.0\02Country.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\02Country\02Country\obj\Debug\net8.0\02Country.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\02Country\02Country\obj\Debug\net8.0\refint\02Country.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\02Country\02Country\obj\Debug\net8.0\02Country.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\02Country\02Country\obj\Debug\net8.0\02Country.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\02Country\02Country\obj\Debug\net8.0\ref\02Country.dll

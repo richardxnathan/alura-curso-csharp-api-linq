@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\03Car\03Car\bin\Debug\net8.0\03Car.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\03Car\03Car\bin\Debug\net8.0\03Car.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\03Car\03Car\bin\Debug\net8.0\03Car.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\03Car\03Car\bin\Debug\net8.0\03Car.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\03Car\03Car\bin\Debug\net8.0\03Car.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\03Car\03Car\obj\Debug\net8.0\03Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\03Car\03Car\obj\Debug\net8.0\03Car.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\03Car\03Car\obj\Debug\net8.0\03Car.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\03Car\03Car\obj\Debug\net8.0\03Car.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\03Car\03Car\obj\Debug\net8.0\03Car.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\03Car\03Car\obj\Debug\net8.0\03Car.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\03Car\03Car\obj\Debug\net8.0\refint\03Car.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\03Car\03Car\obj\Debug\net8.0\03Car.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\03Car\03Car\obj\Debug\net8.0\03Car.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\03Car\03Car\obj\Debug\net8.0\ref\03Car.dll

@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\05GOTAPI\05GOTAPI\bin\Debug\net8.0\05GOTAPI.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\05GOTAPI\05GOTAPI\bin\Debug\net8.0\05GOTAPI.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\05GOTAPI\05GOTAPI\bin\Debug\net8.0\05GOTAPI.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\05GOTAPI\05GOTAPI\bin\Debug\net8.0\05GOTAPI.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\05GOTAPI\05GOTAPI\bin\Debug\net8.0\05GOTAPI.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\05GOTAPI\05GOTAPI\obj\Debug\net8.0\05GOTAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\05GOTAPI\05GOTAPI\obj\Debug\net8.0\05GOTAPI.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\05GOTAPI\05GOTAPI\obj\Debug\net8.0\05GOTAPI.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\05GOTAPI\05GOTAPI\obj\Debug\net8.0\05GOTAPI.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\05GOTAPI\05GOTAPI\obj\Debug\net8.0\05GOTAPI.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\05GOTAPI\05GOTAPI\obj\Debug\net8.0\05GOTAPI.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\05GOTAPI\05GOTAPI\obj\Debug\net8.0\refint\05GOTAPI.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\05GOTAPI\05GOTAPI\obj\Debug\net8.0\05GOTAPI.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\05GOTAPI\05GOTAPI\obj\Debug\net8.0\05GOTAPI.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\05GOTAPI\05GOTAPI\obj\Debug\net8.0\ref\05GOTAPI.dll

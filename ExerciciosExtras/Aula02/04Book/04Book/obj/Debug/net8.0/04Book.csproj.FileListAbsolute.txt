@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\04Book\04Book\bin\Debug\net8.0\04Book.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\04Book\04Book\bin\Debug\net8.0\04Book.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\04Book\04Book\bin\Debug\net8.0\04Book.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\04Book\04Book\bin\Debug\net8.0\04Book.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\04Book\04Book\bin\Debug\net8.0\04Book.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\04Book\04Book\obj\Debug\net8.0\04Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\04Book\04Book\obj\Debug\net8.0\04Book.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\04Book\04Book\obj\Debug\net8.0\04Book.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\04Book\04Book\obj\Debug\net8.0\04Book.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\04Book\04Book\obj\Debug\net8.0\04Book.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\04Book\04Book\obj\Debug\net8.0\04Book.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\04Book\04Book\obj\Debug\net8.0\refint\04Book.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\04Book\04Book\obj\Debug\net8.0\04Book.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\04Book\04Book\obj\Debug\net8.0\04Book.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\04Book\04Book\obj\Debug\net8.0\ref\04Book.dll

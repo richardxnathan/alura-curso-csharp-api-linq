@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\01Movie\01Movie\bin\Debug\net8.0\01Movie.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\01Movie\01Movie\bin\Debug\net8.0\01Movie.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\01Movie\01Movie\bin\Debug\net8.0\01Movie.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\01Movie\01Movie\bin\Debug\net8.0\01Movie.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\01Movie\01Movie\bin\Debug\net8.0\01Movie.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\01Movie\01Movie\obj\Debug\net8.0\01Movie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\01Movie\01Movie\obj\Debug\net8.0\01Movie.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\01Movie\01Movie\obj\Debug\net8.0\01Movie.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\01Movie\01Movie\obj\Debug\net8.0\01Movie.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\01Movie\01Movie\obj\Debug\net8.0\01Movie.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\01Movie\01Movie\obj\Debug\net8.0\01Movie.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\01Movie\01Movie\obj\Debug\net8.0\refint\01Movie.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\01Movie\01Movie\obj\Debug\net8.0\01Movie.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\01Movie\01Movie\obj\Debug\net8.0\01Movie.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula02\01Movie\01Movie\obj\Debug\net8.0\ref\01Movie.dll
