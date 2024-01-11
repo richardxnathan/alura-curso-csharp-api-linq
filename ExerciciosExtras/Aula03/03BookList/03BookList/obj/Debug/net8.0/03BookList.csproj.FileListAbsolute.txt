@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\03BookList\03BookList\obj\Debug\net8.0\03BookList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\03BookList\03BookList\obj\Debug\net8.0\03BookList.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\03BookList\03BookList\obj\Debug\net8.0\03BookList.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\03BookList\03BookList\obj\Debug\net8.0\03BookList.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\03BookList\03BookList\obj\Debug\net8.0\03BookList.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\03BookList\03BookList\bin\Debug\net8.0\03BookList.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\03BookList\03BookList\bin\Debug\net8.0\03BookList.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\03BookList\03BookList\bin\Debug\net8.0\03BookList.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\03BookList\03BookList\bin\Debug\net8.0\03BookList.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\03BookList\03BookList\bin\Debug\net8.0\03BookList.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\03BookList\03BookList\obj\Debug\net8.0\03BookList.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\03BookList\03BookList\obj\Debug\net8.0\refint\03BookList.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\03BookList\03BookList\obj\Debug\net8.0\03BookList.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\03BookList\03BookList\obj\Debug\net8.0\03BookList.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\03BookList\03BookList\obj\Debug\net8.0\ref\03BookList.dll

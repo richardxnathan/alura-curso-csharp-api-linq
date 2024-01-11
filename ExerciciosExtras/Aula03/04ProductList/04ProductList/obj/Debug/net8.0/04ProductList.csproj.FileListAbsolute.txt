@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\04ProductList\04ProductList\bin\Debug\net8.0\04ProductList.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\04ProductList\04ProductList\bin\Debug\net8.0\04ProductList.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\04ProductList\04ProductList\bin\Debug\net8.0\04ProductList.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\04ProductList\04ProductList\bin\Debug\net8.0\04ProductList.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\04ProductList\04ProductList\bin\Debug\net8.0\04ProductList.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\04ProductList\04ProductList\obj\Debug\net8.0\04ProductList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\04ProductList\04ProductList\obj\Debug\net8.0\04ProductList.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\04ProductList\04ProductList\obj\Debug\net8.0\04ProductList.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\04ProductList\04ProductList\obj\Debug\net8.0\04ProductList.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\04ProductList\04ProductList\obj\Debug\net8.0\04ProductList.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\04ProductList\04ProductList\obj\Debug\net8.0\04ProductList.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\04ProductList\04ProductList\obj\Debug\net8.0\refint\04ProductList.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\04ProductList\04ProductList\obj\Debug\net8.0\04ProductList.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\04ProductList\04ProductList\obj\Debug\net8.0\04ProductList.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\04ProductList\04ProductList\obj\Debug\net8.0\ref\04ProductList.dll

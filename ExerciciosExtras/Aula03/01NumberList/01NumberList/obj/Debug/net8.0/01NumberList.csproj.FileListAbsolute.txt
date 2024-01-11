@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\01NumberList\01NumberList\bin\Debug\net8.0\01NumberList.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\01NumberList\01NumberList\bin\Debug\net8.0\01NumberList.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\01NumberList\01NumberList\bin\Debug\net8.0\01NumberList.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\01NumberList\01NumberList\bin\Debug\net8.0\01NumberList.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\01NumberList\01NumberList\bin\Debug\net8.0\01NumberList.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\01NumberList\01NumberList\obj\Debug\net8.0\01NumberList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\01NumberList\01NumberList\obj\Debug\net8.0\01NumberList.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\01NumberList\01NumberList\obj\Debug\net8.0\01NumberList.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\01NumberList\01NumberList\obj\Debug\net8.0\01NumberList.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\01NumberList\01NumberList\obj\Debug\net8.0\01NumberList.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\01NumberList\01NumberList\obj\Debug\net8.0\01NumberList.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\01NumberList\01NumberList\obj\Debug\net8.0\refint\01NumberList.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\01NumberList\01NumberList\obj\Debug\net8.0\01NumberList.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\01NumberList\01NumberList\obj\Debug\net8.0\01NumberList.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula03\01NumberList\01NumberList\obj\Debug\net8.0\ref\01NumberList.dll
