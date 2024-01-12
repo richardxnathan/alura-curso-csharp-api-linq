@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula04\02PersonDeserialize\02PersonDeserialize\bin\Debug\net8.0\02PersonDeserialize.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula04\02PersonDeserialize\02PersonDeserialize\bin\Debug\net8.0\02PersonDeserialize.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula04\02PersonDeserialize\02PersonDeserialize\bin\Debug\net8.0\02PersonDeserialize.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula04\02PersonDeserialize\02PersonDeserialize\bin\Debug\net8.0\02PersonDeserialize.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula04\02PersonDeserialize\02PersonDeserialize\bin\Debug\net8.0\02PersonDeserialize.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula04\02PersonDeserialize\02PersonDeserialize\obj\Debug\net8.0\02PersonDeserialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula04\02PersonDeserialize\02PersonDeserialize\obj\Debug\net8.0\02PersonDeserialize.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula04\02PersonDeserialize\02PersonDeserialize\obj\Debug\net8.0\02PersonDeserialize.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula04\02PersonDeserialize\02PersonDeserialize\obj\Debug\net8.0\02PersonDeserialize.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula04\02PersonDeserialize\02PersonDeserialize\obj\Debug\net8.0\02PersonDeserialize.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula04\02PersonDeserialize\02PersonDeserialize\obj\Debug\net8.0\02PersonDeserialize.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula04\02PersonDeserialize\02PersonDeserialize\obj\Debug\net8.0\refint\02PersonDeserialize.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula04\02PersonDeserialize\02PersonDeserialize\obj\Debug\net8.0\02PersonDeserialize.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula04\02PersonDeserialize\02PersonDeserialize\obj\Debug\net8.0\02PersonDeserialize.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-api-linq\ExerciciosExtras\Aula04\02PersonDeserialize\02PersonDeserialize\obj\Debug\net8.0\ref\02PersonDeserialize.dll
