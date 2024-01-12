@@ -10,7 +10,17 @@ using (HttpClient client = new HttpClient())
         string resposta = await client.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
         var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!;
 
-        LinqFilter.FiltrarMusicasPorAno(musicas, "2012");
+        var musicasPreferidasEmilly = new MusicasPreferidas("Emy");
+
+        musicasPreferidasEmilly.AdicionarMusica(musicas[500]);
+        musicasPreferidasEmilly.AdicionarMusica(musicas[637]);
+        musicasPreferidasEmilly.AdicionarMusica(musicas[428]);
+        musicasPreferidasEmilly.AdicionarMusica(musicas[13]);
+        musicasPreferidasEmilly.AdicionarMusica(musicas[71]);
+
+        musicasPreferidasEmilly.ExibirMusicas();
+
+        musicasPreferidasEmilly.GerarArquivoJson();
 
     }
     catch (Exception ex)
